@@ -1,7 +1,7 @@
 # MPS-BedMappingV1
 This is the python repo for basal mapping from radar line data using multiple-point geostatistics (MPS). 
 
-To run the Auto-BEL, the following dependencies must be met:
+To run the MPS-BedMappingV1, the following dependencies must be met:
 * [Jupyter](http://jupyter.org/) 
 * [Python 3.8 or above](https://www.python.org/) 
 * The above can be installed together via [Anaconda](https://www.anaconda.com/).
