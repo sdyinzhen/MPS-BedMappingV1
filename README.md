@@ -1,6 +1,20 @@
 # MPS-BedMappingV1
 This is the python repo for basal mapping from radar line data using multiple-point geostatistics (MPS). 
 
+To run the Auto-BEL, the following dependencies must be met:
+* [Jupyter](http://jupyter.org/) 
+* [Python 3.8 or above](https://www.python.org/) 
+* The above can be installed together via [Anaconda](https://www.anaconda.com/).
+
+The following python library is required:
+    Scikit learn >= 0.23
+  
+    Numpy >= 1.21.2
+  
+    Scipy >= 1.7.1
+    
+    Matplotlib >= 3.5.0
+
 **Reference**: 
 
 Yin, Z., Zuo, C., MacKie, E., & Caers, J. (in review). Mapping high-resolution basal topography of West Antarctica from radar data using non-stationary multiple-point geostatistics (MPS-BedMappingV1). 
